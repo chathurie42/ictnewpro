@@ -1,0 +1,12 @@
+<html>
+<head>
+ <tittle> our beautiful flower</tittle>
+ </head>
+ <body>
+  <h1> <center> <b> <i> <u>
+  <font face="latha"color="red">OUR BEAUTIFUL FLOWER
+  </font> </u> </i> </b> </center>
+  </h1> </body>
+     <center> <img src="C:\Users\maged\Downloads\4cbb1f62d7b9140bc768c84bb7e50d0a.jpg"> </center>
+ <p> our beautiful flower is a rose flower which blossomed in our garden It is a pink color rose I planted that rose plant on my 5th birthday it gave me the first flower within three months but this flower is the most beautiful flower I've ever seen. </p>
+</html>
